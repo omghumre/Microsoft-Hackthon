@@ -1,0 +1,2 @@
+default color = #1f3145
+RGB = 31,49,69
