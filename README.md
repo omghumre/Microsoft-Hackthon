@@ -1,5 +1,4 @@
 # Microsoft-Hackthon
-Sure! Here are the instructions for running the given code:
 
 1. Install the required packages:
    - `geopy`: You can install it using `pip install geopy`.
