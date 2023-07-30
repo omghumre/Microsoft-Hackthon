@@ -33,7 +33,7 @@ def getWeather():
     long = str(location.longitude)
     lat = str(location.latitude)
     print("lat="+lat+"long="+long)
-    api = "https://api.openweathermap.org/data/2.5/weather?lat="+lat+"&lon="+long+"&units=metric&appid=010af782a9276348b27610f54aae35ea"
+    api = "https://api.openweathermap.org/data/2.5/weather?lat="+lat+"&lon="+long+"&units=metric&appid=API_KEY_HERE"
 
     json_data = requests.get(api).json()
 
